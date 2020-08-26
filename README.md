@@ -2,7 +2,7 @@
 
 This project uses Quarkus command-mode to showcase the possibilities of packaging a native executable for an Electron-style Desktop application (frontend is a webapp running in your browser) and building/releasing it via Github Actions.
 
-For details read the related blog-post on [quarkus.io/blog](https://quarkus.io/blog/native-command-mode-tools/).
+For details read the related blog-post on [quarkus.io/blog](https://quarkus.io/blog/native-coasdasdasdmmand-mode-tools/).
 
 ## Building the application
 
